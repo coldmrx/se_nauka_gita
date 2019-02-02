@@ -1,4 +1,7 @@
-# This is my *README.md* file
+# Testy platform AI dla Ksiegowosci
 ![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
-hello
-# se_nauka_gita
+## Spec
+
+#TODO
+
+## Referencje
